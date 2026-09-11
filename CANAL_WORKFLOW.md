@@ -51,17 +51,21 @@ Usar siempre el archivo vertical original para Instagram, TikTok y YouTube Short
 8. Si una noticia sigue desarrollándose, decirlo claramente en la narración. No presentar un dato histórico como actual ni una cifra ilustrativa como promedio nacional.
 9. El tono puede ser polémico en la pregunta y en el encuadre, pero nunca debe depender de desinformación, ataques personales, odio, imágenes engañosas o clickbait que prometa algo que el vídeo no demuestra.
 
-### Paso B — diseñar la historia
+### Paso B — diseñar la historia y asegurar el engagement
 
 El vídeo debe responder una pregunta concreta. Estructura recomendada:
 
-1. **Hook de 0–5 s:** contradicción, pregunta o imagen imposible de ignorar.
-2. **Promesa:** qué conexión va a descubrir el espectador.
-3. **Contexto mínimo:** solo lo necesario para entender el problema.
-4. **Mecanismo:** explicar las causas con una cadena visual de decisiones e incentivos.
-5. **Giro o paradoja:** lo que parece la solución no resuelve el cuello de botella.
-6. **Implicación:** qué significa para una persona normal.
-7. **Cierre:** “the hidden thread” + pregunta concreta para comentarios.
+1. **Primeros 5–10 s — regla crítica de retención:** abrir con una afirmación tensa, una contradicción, una pregunta incómoda o una imagen de la noticia que obligue a seguir mirando. Debe ser polémico en el sentido de generar debate, no de inventar controversia.
+2. En esos primeros segundos debe quedar claro **qué está en juego**, quién puede verse afectado y cuál es la pregunta que el vídeo va a responder. No empezar con saludos, logos, contexto histórico largo ni frases genéricas como “today we are going to talk about…”.
+3. El hook debe poder resumirse en una frase corta y visual: “Everyone says X. The numbers suggest Y.”, “This decision may help one group—and hurt another.” o “The viral story is missing one crucial detail.”
+4. **Promesa:** explicar qué conexión va a descubrir el espectador y por qué importa ahora.
+5. **Contexto mínimo:** solo lo necesario para entender el problema.
+6. **Mecanismo:** explicar las causas con una cadena visual de decisiones e incentivos.
+7. **Giro o paradoja:** lo que parece la solución no resuelve el cuello de botella.
+8. **Implicación:** qué significa para una persona normal.
+9. **Cierre:** “the hidden thread” + pregunta concreta para comentarios.
+
+Antes de producir, escribir tres hooks alternativos y elegir el que tenga mayor tensión, claridad y potencial de debate. El hook debe ser llamativo, pero cada palabra debe poder defenderse con las fuentes del episodio. No usar acusaciones sin evidencia, alarmismo vacío, odio, ataques personales ni titulares que prometan una conclusión que el vídeo no demuestra.
 
 El short debe abrir con la idea más fuerte, introducir una sola paradoja y terminar con una pregunta que invite a elegir, discutir o aportar una experiencia.
 
@@ -101,6 +105,17 @@ El storyboard debe indicar qué imagen o material de la noticia aparece en cada 
 
 La animación es parte del argumento, no decoración. Evitar diapositivas estáticas con texto largo.
 
+### Regla de los primeros 5–10 segundos
+
+La apertura tiene prioridad absoluta. En los primeros 5–10 segundos deben combinarse:
+
+- una frase breve, concreta y debatible;
+- un cambio visual inmediato o una imagen de actualidad con uso permitido;
+- una animación o transición propia de la noticia;
+- una promesa clara de qué se va a revelar.
+
+El objetivo es provocar una reacción legítima —“¿cómo puede ser?”, “¿quién gana con esto?”, “¿es realmente así?”— y abrir un debate informado. La polémica debe proceder del conflicto real, los datos, los incentivos o las consecuencias, nunca de manipular cifras o sacar declaraciones de contexto.
+
 Reglas visuales:
 
 - cambio visual o micro-movimiento cada 1–3 segundos;
@@ -114,7 +129,7 @@ Reglas visuales:
 - imágenes de la noticia integradas con tratamiento editorial: recortes, resaltados, zooms, escaneos, capas, mapas, documentos o titulares, siempre diferenciando evidencia de recreación;
 - subtítulos grandes, contrastados y dentro de una zona segura;
 - SFX puntuales para impactos, cambios de sección y revelaciones; música discreta que no compita con la voz.
-- Importante añadir animaciones que enganchen al espectador!!
+- Importante: diseñar el golpe visual inicial antes que el resto de la pieza y revisar que los primeros 5–10 segundos no sean lentos ni genéricos.
 
 Patrón de ritmo recomendado:
 
