@@ -203,3 +203,9 @@ Un episodio está terminado cuando:
 - las publicaciones se han verificado en las cuentas correctas;
 - `VIDEO_LOG.txt` registra el tema, ángulo, fecha y enlaces;
 - se ha ejecutado la limpieza posterior.
+
+## 9. Orquestación con OpenCode
+
+La arquitectura propuesta para automatizar el canal está documentada en [OPENCODE_WORKFLOW.md](OPENCODE_WORKFLOW.md). Astra (`gpt-6-astra`) actúa como director editorial y crea el plan del episodio. Luna (`gpt-5.6-luna`) actúa como productor y ejecuta HyperFrames, audio, renders y preparación de publicaciones.
+
+El intercambio entre agentes se hace mediante `production_plan.json` y los archivos del episodio. OpenCode no hereda automáticamente el control de la extensión Chrome de ChatGPT: para manejar un navegador desde OpenCode hay que configurar un navegador compatible por separado. Mientras tanto, Computer Use de ChatGPT puede manejar las sesiones autenticadas cuando sea necesario.

@@ -1,6 +1,6 @@
 # The Hidden Thread — producción local
 
-La guía operativa está en [CANAL_WORKFLOW.md](CANAL_WORKFLOW.md). El registro para evitar repetir temas está en [VIDEO_LOG.txt](VIDEO_LOG.txt) y las plantillas sociales en [PUBLISHING_TEMPLATE.txt](PUBLISHING_TEMPLATE.txt).
+La guía operativa está en [CANAL_WORKFLOW.md](CANAL_WORKFLOW.md). La arquitectura de OpenCode y subagentes está en [OPENCODE_WORKFLOW.md](OPENCODE_WORKFLOW.md). El registro para evitar repetir temas está en [VIDEO_LOG.txt](VIDEO_LOG.txt) y las plantillas sociales en [PUBLISHING_TEMPLATE.txt](PUBLISHING_TEMPLATE.txt).
 
 La carpeta conserva únicamente las herramientas reutilizables: `.tools/`, `.venv/` y `scripts/`. Los renders, el research y los proyectos completos de episodios se eliminan después de verificar la publicación.
 
