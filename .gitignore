@@ -1,0 +1,7 @@
+.secrets/
+.venv/
+.tools/
+voice-samples/
+*.token.json
+*.env
+*.env.local

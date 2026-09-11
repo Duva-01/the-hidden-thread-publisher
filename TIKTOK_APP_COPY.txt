@@ -1,0 +1,17 @@
+TikTok app name
+The Hidden Thread Publisher
+
+Description (English, under 120 characters)
+Local tool for preparing and uploading The Hidden Thread video drafts to TikTok for owner review.
+
+Legal URLs after publication
+Terms of Service: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/legal/terms-of-service.html
+Privacy Policy: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/legal/privacy-policy.html
+
+Configuration
+- Platform: Desktop
+- Product: Login Kit
+- Product: Content Posting API
+- Scope: user.info.basic
+- Scope: video.upload
+- Direct Post: Off
