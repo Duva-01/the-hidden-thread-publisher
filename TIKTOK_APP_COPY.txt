@@ -5,8 +5,8 @@ Description (English, under 120 characters)
 Local tool for preparing and uploading The Hidden Thread video drafts to TikTok for owner review.
 
 Legal URLs after publication
-Terms of Service: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/legal/terms-of-service.html
-Privacy Policy: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/legal/privacy-policy.html
+Terms of Service: https://github.com/Duva-01/the-hidden-thread-publisher/blob/main/legal/terms-of-service.md
+Privacy Policy: https://github.com/Duva-01/the-hidden-thread-publisher/blob/main/legal/privacy-policy.md
 
 Configuration
 - Platform: Desktop
